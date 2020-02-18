@@ -1,0 +1,3 @@
+[submodule "ncstate_ece566_spring2020"]
+	path = ncstate_ece566_spring2020
+	url = https://github.com/jamesmtuck/ncstate_ece566_spring2020.git
